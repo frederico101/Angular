@@ -4,7 +4,9 @@ import { CalculadoraComponent } from './components';
 import { CalculadoraService } from './services';
 
 @NgModule({
-  declarations: [CalculadoraComponent],
+  declarations: [
+    CalculadoraComponent
+  ],
   imports: [
     CommonModule
 
